@@ -15,7 +15,7 @@ class Main {
       // remove the last digit from num
       num /= 10;
     }
-
+// new code
     System.out.println("Reversed Number: " + reversed);
   }
 }
